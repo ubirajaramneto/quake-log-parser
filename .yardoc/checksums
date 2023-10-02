@@ -1,0 +1,8 @@
+src/main.rb 5dc6a303778c7851fcbc824a7990100e230ce810
+src/lib/game.rb a6a22defdfa05d0260f7a6be41d2f3bc95a0e33d
+src/lib/log_parser.rb 3077fc4ddd7e0ad949d7a729613edfbb6f574a1e
+src/lib/death_causes.rb 2f4659af4ac053c692e4a3856b3c9adfe1ff986b
+src/lib/game_manager.rb 879c20901a50d29a47a90b468ad3ab18cf1b22e4
+src/lib/report_generator.rb f012727f565a42ec2e37fb94ef2168cb0f2979e3
+src/lib/player_ranking_service.rb e3e7c82b7670f754e1370d1190664b9143127ea2
+src/lib/death_causes_ranking_service.rb 9ce445b4b8e3bfd22051ce9173fbacc4598d3b17
