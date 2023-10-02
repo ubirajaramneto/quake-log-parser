@@ -6,9 +6,12 @@ QuakeLog Parser is a Ruby-based tool designed to parse and analyze Quake 3 Arena
 
 - [Features](#features)
 - [Installation](#installation)
+- [Running the project](#running-the-project)
 - [Usage](#usage)
 - [Testing](#testing)
+- [Edge cases for player suicide](#edge-cases-for-player-suicide)
 - [Documentation](#documentation)
+- [Technical considerations](#technical-considerations)
 
 ## Features
 
